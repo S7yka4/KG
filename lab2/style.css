@@ -1,0 +1,11 @@
+
+.container {
+	width: 200px; /* Ширина слоя */
+	margin: 7px; /* Значение отступов */
+	padding: 10px; /* Поля вокруг текста */
+	border: 10px solid black; /* Параметры границы */
+	background: #fff; /* Цвет фона */
+	margin-left: auto;
+    margin-right: auto;
+}
+
